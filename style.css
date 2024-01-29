@@ -1,0 +1,5 @@
+html {height:100vh;}
+html,body {background-color: #fff;display: flex;justify-content: center;align-items: center;font-family: 'Montserrat', sans-serif;}
+body {display: -ms-flexbox;display: flex;color: #000;}
+.cover-container {max-width: 42em;text-align:center}
+.cover-container p {font-size: 1em;line-height:1.7em;font-family: 'Montserrat', sans-serif;}
